@@ -6,8 +6,6 @@ Output pin depends on `analogWrite` value give from 0v to 4.5v
 ![Scheme](images/scheme.png)
 
 ## Board
-![Board](images/board.png)
-
-## PCB View
-![View 1](images/rc-low-pass.png)
-![View 2](images/rc-low-pass-pcb.png)
+Board|PCB filled|PCB
+----|----|----
+![Board](images/board.png)|![View 1](images/rc-low-pass.png)|![View 2](images/rc-low-pass-pcb.png)
